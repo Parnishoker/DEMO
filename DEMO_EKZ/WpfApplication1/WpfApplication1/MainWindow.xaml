@@ -1,0 +1,15 @@
+﻿<Window x:Class="WpfApplication1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="562.537" Width="745.896">
+    <Grid OpacityMask="#FF124DFF" Margin="0,0,-133.6,-122.2" Background="#FF002DFF">
+        <Image Margin="294,0,222.8,500" Source="logo.ico" Stretch="Fill"/>
+        <TextBlock HorizontalAlignment="Left" Margin="361,181,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="91" Width="289" FontSize="36" Foreground="White"><Run Language="ru-ru" Text="Авторизация"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="212,240,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="58" Width="217" Foreground="#FFFFF8F8" Background="#FF0620A3" FontSize="30"><Run Language="ru-ru" Text="Преподаватель"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="470,240,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="58" Width="217" Foreground="#FFFFF8F8" Background="#FF0620A3" FontSize="30"><Run Language="ru-ru" Text="Студент"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="212,320,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="58" Width="217" Foreground="#FFFFF8F8" Background="#FF0620A3" FontSize="30"><Run Language="ru-ru" Text="Дирекция"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="470,320,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="58" Width="217" Foreground="#FFFFF8F8" Background="#FF0620A3" FontSize="30"><Run Language="ru-ru" Text="Администратор"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="308,457,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="58" Width="292" Foreground="#FFFFF8F8" Background="#FF1D38C2" FontSize="30"><Run Language="ru-ru" Text="Зарегистрироваться"/></TextBlock>
+
+    </Grid>
+</Window>
